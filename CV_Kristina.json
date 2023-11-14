@@ -1,0 +1,74 @@
+{
+"FirstName": "Kristina",
+"LastName": "Stasilevich",
+"Age": 33
+"Email": "kristina.stasilevich@gmail.com",
+"PhoneNumber": "37529829078",
+"Address":
+  {
+  "Postcode": "220025",
+  "Country": "Belarus",
+  "City": "Minsk",
+  "LocalAddress": "Kosmonavtov 22-35"
+  },
+"Education": 
+  {
+  "Univercity": "Belarusian State University",
+  "Specialty": "Real estate management",
+  "Qualification": "Manager-economist",
+  "YearOfEnding": 2013
+  },
+"Marriage": true,
+"Children": [
+  {
+  "Name": "Elizaveta",
+  "Gender": "female",
+  "Age": 15
+  },
+  {
+  "Name": "Yulia",
+  "Gender": "female",
+  "Age" : 12
+  },
+  {
+  "Name": "Nikodim",
+  "Gender": "male",
+  "Age": 8
+  },
+  {
+  "Name": "Stefan",
+  "Gender": "male",
+  "Age": 3
+  }
+],
+"PostEducation": {
+"Courses":[
+  {
+  "CourseName": "Hairdressing art",
+  "Kategory": "4",
+  "YearOfEnding": 2011
+  },
+  {
+  "CourseName": "Software Testing Engineer",
+  "Level": "Basic",
+  "YearOfEnding": 2023
+  }
+],
+"Certificates":[
+  {
+  "Institution": "BELHARD Academy",
+  "CourseName": "Software Testing Engineer. Basic level.",
+  "CertificateID": "Test01379",
+  "Level": "Basic",
+  "YearOfКeceiving": 2023
+   }
+  ],
+  "Hobbies":["painting","reading","traveling"],
+  "Car":
+  {
+  "Model":"Ford Galaxy",
+  "Color":"Silver",
+  "YearOfManufacture":"2011"
+  } 
+ }
+}
